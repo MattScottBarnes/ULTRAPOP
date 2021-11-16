@@ -1,8 +1,13 @@
 @media(min-width: 1200px){
 
     
-    
+    html {
+        scroll-behavior: smooth;
+      }
 
+
+
+      
     body{
         font: normal 25px 'BindlestiffNF';
         color: white;
